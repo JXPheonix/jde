@@ -1,0 +1,23 @@
+//Eclipse tells me to keep my class names uppercase due to "convention"
+//Then when it generates package-info.java it keeps it lowercase
+//CONTRADICTION
+
+/**
+ * @author XphX
+ */
+
+package xphx.jde;
+
+public class Main {
+	
+	//I've got not a clue what javadocs are for. I'll probably find out.
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// Auto-generated method stub
+
+	}
+
+}
