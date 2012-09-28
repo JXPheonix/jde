@@ -14,7 +14,7 @@ No. It is in no way endorsed by any of the people who work on java.
 
 Where can I find the source code?
 
-You're looking at it right now, derp.
+You're looking at it right now, hurr.
 
 Where can I find an installer?
 
