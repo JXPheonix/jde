@@ -32,6 +32,10 @@ How the heck am I supposed to start it then?
 
 Open up the eclipse workspace (in the folder /eclipse) and run as you would any other project.
 
+Does this program have any dependencies?
+
+The JDK. You wouldn't believe how many stupid people have tried to run this without it.
+
 This looks ugly.
 
 Shaddup, it's a WIP.
