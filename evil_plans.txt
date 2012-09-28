@@ -1,0 +1,13 @@
+1. Finish the basis (a console able to pass commands to java)
+2. Split into two branches, GUI and Console
+3. On GUI, rudimentary Swing GUI so console looks spiffier
+4. On Console, support for infinite amount of brackets, etc.
+5. Merge both into Master, v0.1
+6. Make new branch devel (master is only for #'d versions), continue development work there, namely
+7. A proper text editor (v0.2)
+8. Syntax highlighting (v0.3)
+9. "Project" support (v0.4)
+
+Hopes and fears for project end date (for these first nine steps):
+Hopes: December 2012
+Fears:   July   2013
